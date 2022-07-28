@@ -1,5 +1,9 @@
 {
   "type": "module",
+  "scripts": {
+    "dev": "npx nodemon",
+    "start": "node index.js"
+  },
   "dependencies": {
     "dotenv": "^16.0.1",
     "firebase": "^9.9.1"
