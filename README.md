@@ -1,4 +1,7 @@
 # LP_TEST_node
+Test task:  
+https://docs.google.com/document/d/1vzJRwW8dwly9qYt-X-I0F-luObA3D_pAvawvIrLTm0w/edit?usp=sharing
+
 ## Stack: 
 - node.js
 - firebase
