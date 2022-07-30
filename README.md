@@ -1,16 +1,16 @@
 # LP_TEST_node
-##Stack: 
+## Stack: 
 - node.js
 - firebase
 
-##Overview
+## Overview
 The task took me a little longer, because I usually use the framework (Express, Next), but I decided to complete this task on the proposed stack, i.e. pure node without dependencies.
 
-##Settings:
+## Settings:
 firebaseConfig initializes from env variables, 
 to start the project u need to set it
 
-##Examples:
+## Examples:
 GET http://localhost:3002/requestUser/1234567
 - returns user with ID 1234567
 
