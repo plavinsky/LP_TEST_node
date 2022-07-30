@@ -4,11 +4,13 @@
 - firebase
 
 ## Overview
-The task took me a little longer, because I usually use the framework (Express, Next), but I decided to complete this task on the proposed stack, i.e. pure node without dependencies.
+The task took me a little longer, because I usually use the framework (Express, Next),  
+but I decided to complete this task on the proposed stack, i.e. pure node without dependencies.
 
 ## Settings:
-firebaseConfig initializes from env variables, 
-to start the project u need to set it
+firebaseConfig initializes from env variables,   
+to start the project u need to set it  
+https://github.com/plavinsky/LP_TEST_node/blob/main/database/FireBase.js
 
 ## Examples:
 GET http://localhost:3002/requestUser/1234567
