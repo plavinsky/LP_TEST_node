@@ -11,6 +11,7 @@ export function expressifyResponse(res) {
     res.setHeader('Content-Type', 'text/plain');
     res.status = setStatusCode.bind(res);
     res.json = sendJson.bind(res);
+
 }
 
 function setStatusCode(statusCode) {
@@ -22,3 +23,4 @@ function sendJson(data) {
     this.setHeader('Content-Type', 'application/json');
     this.end(JSON.stringify(data));
 }
+
